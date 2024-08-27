@@ -1,0 +1,32 @@
+{
+  "name": "shell-yes",
+  "version": "1.0.0",
+  "description": "Starter template for a CLI Tool",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaywood/shell-yes.git"
+  },
+  "bin": {
+    "shellyes": "./shellyes.mjs"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "cli"
+  ],
+  "author": "Amy Dutton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahaywood/shell-yes/issues"
+  },
+  "homepage": "https://shellyes.com",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.8",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "yargs": "^17.7.2"
+  }
+}
