@@ -73,4 +73,4 @@ npm publish
 
 ## License
 
-MIT © [Amy Dutton](https://shellyes.com)
+MIT © [Amy Dutton](https://shellyes.dev)

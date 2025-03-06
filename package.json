@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/ahaywood/shell-yes/issues"
   },
-  "homepage": "https://shellyes.com",
+  "homepage": "https://shellyes.dev",
   "dependencies": {
     "@inquirer/prompts": "^5.3.8",
     "@selfteachme/boxerjs": "^1.0.0",
